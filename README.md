@@ -55,12 +55,7 @@ Visualise
 Business Insights
 ```
 
-## Repository Contents
 
-* `Excel/` — Completed Excel workbook
-* `Exercise-Files/` — Source datasets
-* `Documentation/` — Project documentation
-* `Screenshots/` — Selected project outputs
 
 ## Portfolio Context
 
