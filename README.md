@@ -59,7 +59,7 @@ Business Insights
 
 ## Portfolio Context
 
-This project demonstrates my ability to use **Excel for practical Data Analytics and Business Intelligence**.
+This project demonstrates my ability to use Excel for practical Data Analytics and Business Intelligence.
 
 It forms part of a broader analytics portfolio:
 
