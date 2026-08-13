@@ -35,7 +35,7 @@ The analysis focuses on:
 
 **Data Preparation:** Cleaning, consolidation, transformation
 
-**Functions:** `PROPER`, `XLOOKUP`, `INDEX-MATCH`, `IF/IFS`, `UNIQUE`, `COUNTIF`, `AVERAGEIF`, `TEXTJOIN`
+**Functions:** PROPER, XLOOKUP, INDEX-MATCH, IF/IFS, UNIQUE, COUNTIF, AVERAGEIF, TEXTJOIN
 
 **Analysis:** PivotTables, calculated fields, customer classification, regional and product analysis
 
