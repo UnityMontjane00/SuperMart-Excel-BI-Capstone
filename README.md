@@ -17,6 +17,21 @@ The analysis focuses on:
 * Delivery performance
 * Returns and operational efficiency
 
+## Data
+
+The project includes the following source datasets:
+
+- `Sales_Q1`
+- `Sales_Q2`
+- `Sales_Q3`
+- `Sales_All`
+- `Customer_List`
+- `Product_List`
+- `Finance_Data`
+- `Operations_Data`
+
+`Sales_All` is the consolidated sales dataset created by combining the quarterly sales data.
+
 ## What I Did
 
 * Consolidated quarterly sales data
@@ -54,7 +69,6 @@ Visualise
    ↓
 Business Insights
 ```
-
 
 ## Portfolio Context
 
